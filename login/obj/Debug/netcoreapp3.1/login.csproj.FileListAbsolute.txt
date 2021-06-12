@@ -1,0 +1,8 @@
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\login\obj\Debug\netcoreapp3.1\login.csproj.AssemblyReference.cache
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\login\obj\Debug\netcoreapp3.1\login.login.resources
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\login\obj\Debug\netcoreapp3.1\login.Properties.Resources.resources
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\login\obj\Debug\netcoreapp3.1\login.Registro.resources
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\login\obj\Debug\netcoreapp3.1\login.csproj.GenerateResource.cache
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\login\obj\Debug\netcoreapp3.1\login.AssemblyInfoInputs.cache
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\login\obj\Debug\netcoreapp3.1\login.AssemblyInfo.cs
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\login\obj\Debug\netcoreapp3.1\login.csproj.CoreCompileInputs.cache

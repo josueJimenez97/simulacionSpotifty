@@ -1,0 +1,15 @@
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\bin\Debug\netcoreapp3.1\form1.exe
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\bin\Debug\netcoreapp3.1\form1.deps.json
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\bin\Debug\netcoreapp3.1\form1.runtimeconfig.json
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\bin\Debug\netcoreapp3.1\form1.runtimeconfig.dev.json
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\bin\Debug\netcoreapp3.1\form1.dll
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\bin\Debug\netcoreapp3.1\form1.pdb
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\obj\Debug\netcoreapp3.1\form1.csproj.AssemblyReference.cache
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\obj\Debug\netcoreapp3.1\form1.Form1.resources
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\obj\Debug\netcoreapp3.1\form1.csproj.GenerateResource.cache
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\obj\Debug\netcoreapp3.1\form1.AssemblyInfoInputs.cache
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\obj\Debug\netcoreapp3.1\form1.AssemblyInfo.cs
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\obj\Debug\netcoreapp3.1\form1.csproj.CoreCompileInputs.cache
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\obj\Debug\netcoreapp3.1\form1.dll
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\obj\Debug\netcoreapp3.1\form1.pdb
+E:\simulacionSpotify\proyectoFinalSimulacionSpotify\form1\obj\Debug\netcoreapp3.1\form1.genruntimeconfig.cache
